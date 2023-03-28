@@ -15,7 +15,7 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: auto;
 }
-input. {
+input {
     display: none;
     visibility: hidden;
 }
